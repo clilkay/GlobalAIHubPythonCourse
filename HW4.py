@@ -23,7 +23,7 @@ class Cat(Animal):
     def Sound2(self):
         print("It's sound is :"+self.sound2)
 
-cat1=Cat("b","b",4,"miyav")
+cat1=Cat("boncuk","black",4,"miyav")
 
 cat1.Show()
 cat1.Sound2()
